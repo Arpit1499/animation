@@ -1,0 +1,132 @@
+[4:28 am, 13/10/2022] Durgaesh: HTML-
+[4:28 am, 13/10/2022] Durgaesh: <div class="container">
+  <div class="snow"></div>
+  <div class="tree1"></div>
+  <div class="tree2"></div>
+  <div class="house">
+    <div class="roof1">
+      <div class="b1"></div>
+      <div class="b2"></div>
+    </div>
+    <div class="wall1">
+      <div class="w3">
+        <div class="window1">
+          <div class="glass1"></div>
+        </div>
+      </div>
+    </div>
+    <div class="wall2">
+      <div class="light">
+        <div class="w1">
+          <div class="window">
+            <div class="glass"></div>
+          </div>
+        </div>
+        <div class="w2">
+          <div class="window">
+            <div class="glass"></div>
+          </div>
+        </div>
+      </div>
+      <div class="door">
+        <div class="handle"></div>
+      </div>
+      <div class="snw1"></div>
+      <div class="snw2"></div>
+    </div>
+    <div class="wall3">
+      <div class="b3"></div>
+      <div class="b4"></div>
+      <div class="chimney">
+        <div class="top">
+          <div class="smoke">
+            <div class="s1"></div>
+            <div class="s2"></div>
+            <div class="s3"></div>
+          </div>
+          <div class="shne1"></div>
+          <div class="shne2"></div>
+        </div>
+      </div>
+      <div class="sn">
+        <div class="dr1"></div>
+        <div class="dr2"></div>
+        <div class="dr3"></div>
+      </div>
+      <div class="sn1">
+        <div class="dr4"></div>
+      </div>
+      <div class="sh1"></div>
+      <div class="sh2"></div>
+      <div class="sh3"></div>
+      <div class="sh4"></div>
+      <div class="sh5"></div>
+    </div>
+  </div>
+  <div class="snowfall"></div>
+  <div class="cover"></div>
+  <div class="bottom">
+    <div class="bt1"></div>
+    <div class="bt2"></div>
+  </div>
+  <div class="fence">
+    <div class="fn1">
+      <div class="screw"></div>
+    </div>
+    <div class="fn2">
+      <div class="screw"></div>
+    </div>
+    <div class="fn3">
+      <div class="screw"></div>
+    </div>
+    <div class="stck"></div>
+  </div>
+[4:28 am, 13/10/2022] Durgaesh: CSS-
+[4:29 am, 13/10/2022] Durgaesh: body{
+  background-color: #241E4E;
+  padding:0;
+  margin:0;
+}
+.container{
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  top:0;
+  bottom: 0;
+  left:0;
+  right: 0;
+}
+.snow{
+  height: 40px;
+  width: 235px;
+  background-color: white;
+  position: relative;
+  left:60px;
+  top:280px;
+  border-radius: 8px;
+}
+.tree1{
+  height: 0;
+  width: 0;
+  border-bottom: 120px solid #5b6b09;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  position: relative;
+  left:70px;
+  top:120px;
+}
+.tree2{
+  height: 0;
+  width: 0;
+  border-bottom: 90px solid #718710;
+  border-left: 24px solid transparent;
+  border-right: 24px solid transparent;
+  position: relative;
+  left:90px;
+  top:30px;
+}
+.house{
+  position:…
+[4:30 am, 13/10/2022] Durgaesh: Name -Snow Globe
